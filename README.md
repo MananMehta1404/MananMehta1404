@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MananMehta1404
 - 👀 I’m interested in AI, ML and Full Stack Development.
-- 🌱 I’m currently learning Node.js, Express.js and MongoDB.
+- 🌱 I’m currently learning Node.js, Express.js, MongoDB and React.js.
 - 💞️ I’m looking to collaborate on projects related to Full Stack Development.
 - 📫 How to reach me -> mehtamanan1442003@gmail.com
 
