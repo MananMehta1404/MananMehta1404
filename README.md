@@ -1,12 +1,12 @@
-# Hello Everyone, I'm Manan Mehta
+# Hello Everyone, I'm Manan Mehta 👋
 
 ## About Me
-I'm a passionate Software Developer with a focus on Web development and Machine Learning. I love building innovative solutions that solve real-world problems. Currently pursuing a bachelors degree in Artificial Intelligence and actively seeking opportunities to collaborate on exciting projects.
+I'm a passionate Software Developer with a focus on Web development and Machine Learning. I love building innovative solutions that solve real-world problems. Currently pursuing a Bachelors degree in Computer Science and actively seeking opportunities to collaborate on exciting projects.
 
 ## Projects
 
 ### Natours
-A web-based tours application built with React and Node.js. It allows users to explore various tour packages, see reviews on tours, post reviews, and also book a tour for their upcoming vacation. It provides a visually appealing and intuitive interface to the users. The project implements features like user authentication, tour filtering, and some advanced geospatial queries.
+A web-based tours application built with HTML, CSS, JS, Pug, Node.js and MongoDB as database. It allows users to explore various tour packages, see reviews on tours, post reviews, and also book a tour for their upcoming vacation. It provides a visually appealing and intuitive interface to the users. The project implements features like user authentication, tour filtering, and some advanced geospatial queries.
 
 [GitHub Repository](https://github.com/MananMehta1404/Natours)
 
@@ -16,7 +16,7 @@ A web-based tours application built with React and Node.js. It allows users to e
 
 - Programming Languages: JavaScript, Python, Java, C
 - Web Development: 
-   - Frontend: HTML, CSS, Tailwind CSS, React, Redux, Next.js
+   - Frontend: HTML, CSS, Tailwind CSS, React, Redux, Next.js, Material UI
    - Backend: Node.js, Express.js, REST APIs
 - App Development: React-Native
 - Version Control: Git, GitHub
