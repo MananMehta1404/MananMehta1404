@@ -6,16 +6,11 @@ I'm a passionate Software Developer with a focus on Web development and Machine 
 ## Projects
 
 ### Natours
-A web-based task management application built with React and Node.js. It allows users to create, track, and organize their tasks in a visually appealing and intuitive interface. The project implements features like user authentication, task filtering, and real-time updates using websockets.
+A web-based tours management application built with React and Node.js. It allows users to explore various tour packages, see reviews on tours, post reviews, and also book a tour for their upcoming vacation. It provides a visually appealing and intuitive interface to the users. The project implements features like user authentication, tour filtering, and some advanced geospatial queries.
 
-[GitHub Repository](https://github.com/yourusername/project-a)
-[Live Demo](https://www.example.com/project-a)
-
-### Jobs
-An image recognition model using convolutional neural networks for object detection. The model is trained on a large dataset and achieves high accuracy in identifying various objects in images. It's implemented in Python using TensorFlow and has applications in computer vision and autonomous systems.
-
-[GitHub Repository](https://github.com/yourusername/project-b)
-[Demo Video](https://www.youtube.com/watch?v=example)
+[GitHub Repository](https://github.com/MananMehta1404/Natours)
+#
+[Live Demo]
 
 ## My Skills
 
