@@ -29,10 +29,7 @@ An image recognition model using convolutional neural networks for object detect
 - Tools: VS Code, Postman, Heroku, GraphCMS
 
 ## Connect with Me
-- [Website](https://www.johndoe.com)
-- [Twitter](https://www.twitter.com/johndoe)
-- [LinkedIn](https://www.linkedin.com/in/johndoe)
-
+If you want to discuss about your ideas or want me to collaborate with you on your amazing projects, please don't hesitate to reach out to me. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mananmehta1404) or [Twitter](https://www.twitter.com/MananMehta1404). You can also send me an email at mehtamanan1442003@gmail.com.
 
 
 <!---
