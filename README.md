@@ -6,11 +6,11 @@ I'm a passionate Software Developer with a focus on Web development and Machine 
 ## Projects
 
 ### Natours
-A web-based tours management application built with React and Node.js. It allows users to explore various tour packages, see reviews on tours, post reviews, and also book a tour for their upcoming vacation. It provides a visually appealing and intuitive interface to the users. The project implements features like user authentication, tour filtering, and some advanced geospatial queries.
+A web-based tours application built with React and Node.js. It allows users to explore various tour packages, see reviews on tours, post reviews, and also book a tour for their upcoming vacation. It provides a visually appealing and intuitive interface to the users. The project implements features like user authentication, tour filtering, and some advanced geospatial queries.
 
 [GitHub Repository](https://github.com/MananMehta1404/Natours)
 
-- You can see my other projects on my Github profile.
+- You can see other projects on my Github profile.
 
 ## My Skills
 
