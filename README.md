@@ -5,6 +5,11 @@ I'm a passionate Software Developer with a focus on Web development and Machine 
 
 ## Projects
 
+### Blog App
+A blog application created using Next.js, Tailwind CSS and Graph CMS as the Content Management System. It allows the bloggers to add posts dynamically without writing a single line of code. When readers do comments on the blog the comments will be submitted for review and once they are reviewed the comments are displayed in the comments section of the respective blog. 
+
+[GitHub Repository](https://github.com/MananMehta1404/Blog-App)          [Live](https://blog-app-mananmehta1404.vercel.app)
+
 ### Natours
 A web-based tours application built with HTML, CSS, JS, Pug, Node.js and MongoDB as database. It allows users to explore various tour packages, see reviews on tours, post reviews, and also book a tour for their upcoming vacation. It provides a visually appealing and intuitive interface to the users. The project implements features like user authentication, tour filtering, and some advanced geospatial queries.
 
@@ -16,7 +21,7 @@ A web-based tours application built with HTML, CSS, JS, Pug, Node.js and MongoDB
 
 - Programming Languages: JavaScript, Java, Python
 - Web Development: 
-   - Frontend: HTML, CSS, Tailwind CSS, React, Redux, Next.js, TypeScript
+   - Frontend: HTML, CSS, Tailwind CSS, React, Next.js, TypeScript
    - Backend: Node.js, Express.js, Mongoose, REST APIs, MVC Architecture
 - App Development: React-Native
 - Version Control: Git, GitHub
