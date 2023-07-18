@@ -14,14 +14,14 @@ A web-based tours application built with HTML, CSS, JS, Pug, Node.js and MongoDB
 
 ## My Skills
 
-- Programming Languages: JavaScript, Python, Java, C
+- Programming Languages: JavaScript, Java, Python
 - Web Development: 
-   - Frontend: HTML, CSS, Tailwind CSS, React, Redux, Next.js, Material UI
-   - Backend: Node.js, Express.js, REST APIs
+   - Frontend: HTML, CSS, Tailwind CSS, React, Redux, Next.js, TypeScript
+   - Backend: Node.js, Express.js, Mongoose, REST APIs, MVC Architecture
 - App Development: React-Native
 - Version Control: Git, GitHub
 - Databases: MySQL, MongoDB
-- Tools: VS Code, Postman, Heroku, GraphCMS
+- Tools: VS Code, Postman, GraphCMS
 
 ## Connect with Me
 If you want to discuss about your ideas or want me to collaborate with you on your amazing projects, please don't hesitate to reach out to me. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mananmehta1404) or [Twitter](https://www.twitter.com/MananMehta1404). You can also send me an email at mehtamanan1442003@gmail.com.
